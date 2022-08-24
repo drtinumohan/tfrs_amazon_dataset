@@ -1,0 +1,8 @@
+name: tfrs
+channels:
+  - defaults
+dependencies:
+  - python==3.9.1
+  - jupyter
+  - notebook
+prefix: /home/bioss/.conda/envs/tfrs
